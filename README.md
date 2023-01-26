@@ -15,4 +15,9 @@ Before moving on, let’s have a quick look at all the sub-bits that build the S
 Here are some important modules we'll use:
 <img width="562" alt="image" src="https://user-images.githubusercontent.com/85865229/214648001-af704676-7f4b-4eae-9c00-872287903024.png">
 
+Version/Phase 1 output:
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/85865229/214849994-c1943dec-9b4b-4ddd-a825-f61751690a11.png">
+
+
 
